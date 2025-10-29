@@ -4,8 +4,6 @@
 # Hi 👋, I'm Swapnil Patel
 ## 🧠 About Me
 
-## 🧠 About Me
-
 I’m a final-year **B.Tech CSE student at VIT Chennai (CGPA – 8.8)**, passionate about applying **AI and software engineering** to solve real-world problems.  
 As an aspiring **AI Engineer**, I specialize in **Machine Learning, Deep Learning, Generative AI, and Agentic AI**, with experience deploying solutions on **AWS, GCP, and Azure**.  
 I enjoy turning data and ideas into **impactful, production-ready systems** that blend innovation with purpose.  
@@ -93,5 +91,6 @@ I enjoy turning data and ideas into **impactful, production-ready systems** that
 - Portfolio / Live projects: [https://swapnilpatel.netlify.app/]  
 - LinkedIn: [https://www.linkedin.com/in/swapnilpatel8]  
 - Kaggle: [https://www.kaggle.com/swappy3414]
+
 
 
