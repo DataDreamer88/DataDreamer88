@@ -59,14 +59,56 @@ To grow as a professional in **AI/ML/Data Science**, creating scalable and human
 ## 🚀 Major Projects
 > Click project names to open repo / demo (replace placeholders with real links)
 
-- **[GoOnFarm — Smart Agriculture Web App](https://smart-india-hackathon-agri-grow.vercel.app/)**  
-  Features: crop yield prediction, crop recommendation, disease detection, auction module. Built with Python (Flask/Django / FastAPI), ML models, and a React front-end.  
+## 🚀 Major Projects
 
-- **[Helios — AI Healthcare Monitoring (Demo)](https://predictmyhealth.netlify.app/)**  
-  Real-time patient monitoring and AI health priority scoring — designed for rural/low-resource settings.  
+### 🧠 [Govt. Agricultural Data Q&A Chatbot](https://github.com/DataDreamer88/government-inter-department-chatbot-assistant)
+**Tech Stack:** Flask, GCP, LangChain, RAG, Groq Llama AI  
+- Developed an AI-powered **data assistant chatbot** using **Retrieval Augmented Generation (RAG)**.  
+- Integrated **real-time government data (data.gov.in APIs)** for rainfall, crop yield & regional analytics.  
+- Deployed backend on **Google Cloud Run** and frontend on **Firebase Hosting** with a chat-style UI.  
+- Implements **SentenceTransformer embeddings** and **Groq Llama** for semantic query understanding.
 
-- **[DDoS Attack Detection (ML)](https://github.com/DataDreamer88/Python---Wireshark-Packet-analysis)**  
-  Packet analysis, feature engineering, SVM/Decision Tree + SMOTE — production evaluation-ready.  
+---
+
+### ⚙️ [Industry Production Line Anomaly Detection](https://honeywell-anomaly-detection-q3.vercel.app/)
+**Tech Stack:** XGBoost, Flask, JavaScript, Digital Transformation  
+- Built a **real-time anomaly detection system** for industrial production lines.  
+- Delivered **instant alerts and live dashboards** to monitor process deviations.  
+- Reduced downtime and improved reliability through automated anomaly identification.  
+- Deployed a client-facing **interactive dashboard** for continuous process monitoring.
+
+---
+
+### 🌾 [GoOnFarm — Smart Agriculture Web App](https://smart-india-hackathon-agri-grow.vercel.app/)
+**Tech Stack:** Flask, ML, React, AWS  
+- One-stop solution for farmers — includes **crop yield prediction**, **recommendation**, and **disease detection**.  
+- Features an **auction module** and cloud-based deployment using AWS.  
+- Developed under the **Smart India Hackathon initiative** using hybrid ML models.
+
+---
+
+### 🩺 [Helios — AI Healthcare Monitoring System](https://predictmyhealth.netlify.app/)
+**Tech Stack:** Flask, Streamlit, ML, Data Visualization  
+- Comprehensive digital healthcare solution for **real-time patient monitoring** and **early disease detection**.  
+- AI-generated **Health Priority Score** for each patient based on simulated vitals.  
+- Enables **remote healthcare access** in rural and resource-limited areas.
+
+---
+
+### 🔐 [DDoS Attack Detection using Machine Learning](https://github.com/DataDreamer88/Python---Wireshark-Packet-analysis)
+**Tech Stack:** Python, SVM, Decision Tree, SMOTE  
+- Automated **DDoS detection system** achieving 82% accuracy.  
+- Performed **packet analysis, data balancing, and model training** using Python.  
+- Implemented during internship at **Hindalco Industries Ltd.**, improving network reliability.
+
+---
+
+### 📈 [Agricultural Commodity Platform](https://smart-india-hackathon-agri-grow.vercel.app/)
+**Tech Stack:** Python (LSTM, ARIMA), Flask API, React, AWS  
+- Integrated web platform providing **agricultural commodity price prediction**.  
+- Analyzed **20+ years of historical data** using LSTM & ARIMA models.  
+- Deployed modular ML APIs and visual dashboards on AWS Cloud.
+
 
 ---
 
@@ -93,6 +135,7 @@ To grow as a professional in **AI/ML/Data Science**, creating scalable and human
 - Portfolio / Live projects: [https://swapnilpatel.netlify.app/]  
 - LinkedIn: [https://www.linkedin.com/in/swapnilpatel8]  
 - Kaggle: [https://www.kaggle.com/swappy3414]
+
 
 
 
