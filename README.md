@@ -1,8 +1,3 @@
-<!--
-  GitHub Profile README
-  - Replace all REPLACE_WITH_* placeholders with your real links and text.
-  - Optional: tweak icons, colors, and ordering to your taste.
--->
 
 <div align="center">
 
@@ -18,16 +13,38 @@ Frontend / Full-stack tinkerer • Research curiosity • Practical problem solv
 
 <div align="center">
 
-<!-- Left column: badges -->
-<div style="display:flex; gap:10px; justify-content:center; flex-wrap:wrap; align-items:center; margin-bottom:12px;">
-  <img alt="Top Language" src="https://img.shields.io/badge/Top%20Lang-Python-blue?style=for-the-badge&logo=python" />
-  <img alt="ML" src="https://img.shields.io/badge/Machine%20Learning-Scalable-orange?style=for-the-badge&logo=tensorflow" />
-  <img alt="DL" src="https://img.shields.io/badge/Deep%20Learning-Keras-red?style=for-the-badge&logo=keras" />
-  <img alt="CV" src="https://img.shields.io/badge/Computer%20Vision-OpenCV-lightgrey?style=for-the-badge&logo=opencv" />
-  <img alt="Agentic AI" src="https://img.shields.io/badge/Agentic%20AI-Research-purple?style=for-the-badge" />
-  <img alt="Gen AI" src="https://img.shields.io/badge/Generative%20AI-LLMs-yellow?style=for-the-badge" />
-  <img alt="Email" src="https://img.shields.io/badge/Email-swapnilpatel2537@gmail.com-brightgreen?style=for-the-badge" />
-</div>
+<div align="center">
+
+### 🧠 Technical Stack
+
+#### 🐍 Python Libraries
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%230C55A5.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
+
+#### 🤖 Skills
+![AI/ML Algorithms](https://img.shields.io/badge/AI%2FML%20Algorithms-blue?style=for-the-badge)
+![Data Science](https://img.shields.io/badge/Data%20Science-FF6F00?style=for-the-badge)
+![NLP](https://img.shields.io/badge/Natural%20Language%20Processing-9C27B0?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-yellow?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-purple?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/Large%20Language%20Models-black?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG%20%28Retrieval%20Augmented%20Generation%29-green?style=for-the-badge)
+![API Integration](https://img.shields.io/badge/API%20Integration-orange?style=for-the-badge)
+
+#### 🧩 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -73,7 +90,6 @@ Frontend / Full-stack tinkerer • Research curiosity • Practical problem solv
 
 ## 📈 GitHub Stats
 <p align="left">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=DataDreamer88&show_icons=true&theme=dark&count_private=true&hide_border=true" />
   <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DataDreamer88&layout=compact&theme=dark&hide_border=true" />
 </p>
 
