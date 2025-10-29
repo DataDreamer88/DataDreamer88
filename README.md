@@ -59,8 +59,6 @@ To grow as a professional in **AI/ML/Data Science**, creating scalable and human
 ## 🚀 Major Projects
 > Click project names to open repo / demo (replace placeholders with real links)
 
-## 🚀 Major Projects
-
 ### 🧠 [Govt. Agricultural Data Q&A Chatbot](https://github.com/DataDreamer88/government-inter-department-chatbot-assistant)
 **Tech Stack:** Flask, GCP, LangChain, RAG, Groq Llama AI  
 - Developed an AI-powered **data assistant chatbot** using **Retrieval Augmented Generation (RAG)**.  
@@ -135,6 +133,7 @@ To grow as a professional in **AI/ML/Data Science**, creating scalable and human
 - Portfolio / Live projects: [https://swapnilpatel.netlify.app/]  
 - LinkedIn: [https://www.linkedin.com/in/swapnilpatel8]  
 - Kaggle: [https://www.kaggle.com/swappy3414]
+
 
 
 
