@@ -2,8 +2,19 @@
 <div align="center">
 
 # Hi 👋, I'm Swapnil Patel
-**AI / ML enthusiast** • **Proficient in Python, Machine Learning, Deep Learning, Computer Vision, Agentic AI & Gen AI**  
-Frontend / Full-stack tinkerer • Research curiosity • Practical problem solver
+## 🧠 About Me
+
+A final-year **B.Tech Computer Science and Engineering** student at **VIT Chennai**, maintaining a **CGPA of 8.8**.  
+As an aspiring **AI Engineer with softwaare engineering skills**, I’m passionate about building intelligent systems that merge innovation, data, and impact — from **Machine Learning and Deep Learning** models to **Agentic and Generative AI** solutions deployed in the cloud.
+
+Driven by curiosity and execution, I’ve worked across diverse projects, integrating AI pipelines with scalable cloud infrastructure (AWS, GCP, Azure).  
+I take pride in crafting solutions that are not just technically sound but also **purpose-driven and production-ready**.
+
+🎯 **Objective:**  
+To grow as a **professional with AI/ML/Data Science with software engineering competencies**, contributing to transformative, real-world applications of Artificial Intelligence — combining creativity, precision, and innovation to make technology more accessible and meaningful.
+
+💬 Recruiter Insight (subtly conveyed):  
+I bring a rare blend of **technical depth, implementation mindset, and leadership maturity**, making me the kind of candidate who learns fast, delivers reliably, and aligns AI innovation with organizational goals.
 
 [![Profile views](https://komarev.com/ghpvc/?username=DataDreamer88&color=blue)](https://github.com/DataDreamer88)
 
@@ -25,7 +36,6 @@ Frontend / Full-stack tinkerer • Research curiosity • Practical problem solv
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%230C55A5.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
 #### 🤖 Skills
 ![AI/ML Algorithms](https://img.shields.io/badge/AI%2FML%20Algorithms-blue?style=for-the-badge)
@@ -48,14 +58,6 @@ Frontend / Full-stack tinkerer • Research curiosity • Practical problem solv
 
 </div>
 
----
-
-## About me
-- I’m an **AI / ML enthusiast** with strong hands-on experience in **Python**, **Machine Learning**, **Deep Learning**, **Computer Vision**, **Agentic AI**, and **Generative AI**.  
-- I build end-to-end ML systems (data → model → deployment) and enjoy turning research ideas into practical tools.
-- Prior internships & projects include work in cybersecurity ML (DDoS detection), healthcare ML (heart disease prediction), and smart systems (smart car parking), plus a web app for farmers (GoOnFarm).
-
----
 
 ## 🚀 Major Projects
 > Click project names to open repo / demo (replace placeholders with real links)
@@ -77,23 +79,17 @@ Frontend / Full-stack tinkerer • Research curiosity • Practical problem solv
   <img alt="TensorFlow" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="36" />
   <img alt="PyTorch" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="36" />
   <img alt="OpenCV" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="36" />
-  <img alt="Scikit-Learn" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" width="36" />
+  <img alt="Scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="36" />
   <img alt="Jupyter" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="36" />
   <img alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="36" />
-  <img alt="AWS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="36" />
+  <img alt="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" />
   <img alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36" />
   <img alt="Nodejs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="36" />
-  <img alt="C/C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="36" />
+  <img alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="36" />
+  <img alt="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="36" />
 </p>
 
----
 
-## 📈 GitHub Stats
-<p align="left">
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DataDreamer88&layout=compact&theme=dark&hide_border=true" />
-</p>
-
----
 
 ## 🔗 Quick links
 - Resume: [Download PDF](https://drive.google.com/file/d/1tmctvwXPB7HJzbSCUkehp0FpV_g2P5Rg/view?usp=sharing)  
@@ -101,20 +97,3 @@ Frontend / Full-stack tinkerer • Research curiosity • Practical problem solv
 - LinkedIn: [https://www.linkedin.com/in/swapnilpatel8]  
 - Kaggle: [https://www.kaggle.com/swappy3414]
 
----
-
-## 🤝 Let’s connect
-- Email: `swapnilpatel2537@gmail.com`  
-- LinkedIn: `https://www.linkedin.com/in/swapnilpatel8`
-
----
-
-## ⚡ Fun fact
-I love building projects that combine **real-world impact** and **clean engineering** — always learning, always shipping.
-
----
-
-<!-- Footer -->
-<p align="center">
-  <sub>Made with ❤️ • Swapnil Patel • Last updated: <small><code>YYYY-MM-DD</code></small></sub>
-</p>
